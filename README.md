@@ -1,5 +1,7 @@
 ## Hi, Nanda here! 👋
 
+### Socials : 
+[<img src='https://raw.githubusercontent.com/emerald-developer/emerald-developer/32e84b8b410d07bccebc746167ff3ed03c9ff3c8/discord.svg' alt='discord' height='40'>](https://discord.com/users/nandhaasokh)
 <!--
 **Abhinandha-Asokh/Abhinandha-Asokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
